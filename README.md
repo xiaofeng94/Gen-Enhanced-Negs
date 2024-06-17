@@ -9,14 +9,17 @@ This repo offers:
 
 
 ## Evaluating GLIP on OmniLabel
-
-### Install GLIP
-- We provide our customized GLIP code in `./GLIP`. We only add necessary code to enable evaluation on [OmniLabel benchmark](https://www.omnilabel.org/). 
-You may check the git log in `./GLIP` for what we modified, if you want merge those changes into your own codebase.
+We provide our customized GLIP code in `./GLIP`. We only add necessary code to enable evaluation on [OmniLabel benchmark](https://www.omnilabel.org/). 
+You may check the git log in `./GLIP` for what we modified, if you want merge those changes into your own codebase. NOTE: Below is not a necessary step to run the evaluation
 ```
-cd <root folder of this repo>/GLIP
+cd <root folder of this repo>
+git checkout 4190ad40f1caa371e73c4168ced9f1adc25d382e
+cd ./GLIP
+mv .git_old .git
 git log
 ```
+
+### Install GLIP
 - You may follow the following instruction to install GLIP to avoid any incompatibility issues.
 ```
 cd <root folder of this repo>/GLIP
