@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 9dda9558c1ef59bb6cdc8e896e2bcab775a68ff0 Shiyu Zhao <szhao@nec-labs.com> 1718597894 -0700	clone: from https://github.com/microsoft/GLIP.git
+9dda9558c1ef59bb6cdc8e896e2bcab775a68ff0 a971f7e370bbc7da96c7f8c10e22031891883130 Shiyu Zhao <szhao@nec-labs.com> 1718598389 -0700	commit: add evaluation for Omnilabel benchmark
+a971f7e370bbc7da96c7f8c10e22031891883130 280eec2780f066543cbe0818a71c3b0187b6580b Shiyu Zhao <szhao@nec-labs.com> 1718598601 -0700	commit: use old format for odinw_35
+280eec2780f066543cbe0818a71c3b0187b6580b d76ac3d46f50bb94a47ada1a10064d3613a594f6 Shiyu Zhao <szhao@nec-labs.com> 1718605090 -0700	commit: change dataset path config

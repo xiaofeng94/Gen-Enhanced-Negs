@@ -1,0 +1,7 @@
+DATASETS:
+  # TRAIN: ("train",)
+  TEST: ("omnilabel_val",)
+  # TEST: ("omnilabel_val_coco",)
+  # TEST: ("coco_2017_val", )
+DATALOADER:
+  ASPECT_RATIO_GROUPING: False
