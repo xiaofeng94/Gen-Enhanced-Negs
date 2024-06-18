@@ -1,4 +1,4 @@
-# Generating Enhanced Negatives for Training Language-Based Object Detectors
+# Generating Enhanced Negatives for Training Language-Based Object Detectors, CVPR 2024
 
 [arXiv](https://arxiv.org/abs/2401.00094)
 
