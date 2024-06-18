@@ -109,3 +109,14 @@ TODO
 
 This repository was built on top of [GLIP](https://github.com/microsoft/GLIP/blob/main/DATA.md), [FIBER](https://github.com/microsoft/FIBER), and [alpaca-lora](https://github.com/tloen/alpaca-lora). We thank the effort from our community.
 
+## Citation
+If this repository helps your work, please consider to cite our paper:
+```BibTeX
+@inproceedings{zhao2024generating,
+  title={Generating Enhanced Negatives for Training Language-Based Object Detectors},
+  author={Zhao, Shiyu and Zhao, Long and Suh, Yumin and Metaxas, Dimitris N and Chandraker, Manmohan and Schulter, Samuel and others},
+  booktitle={CVPR},
+  pages={13592--13602},
+  year={2024}
+}
+```
