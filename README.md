@@ -114,7 +114,7 @@ If this repository helps your work, please consider to cite our paper:
 ```BibTeX
 @inproceedings{zhao2024generating,
   title={Generating Enhanced Negatives for Training Language-Based Object Detectors},
-  author={Zhao, Shiyu and Zhao, Long and Suh, Yumin and Metaxas, Dimitris N and Chandraker, Manmohan and Schulter, Samuel and others},
+  author={Zhao, Shiyu and Zhao, Long and BG, Vijay Kumar and Suh, Yumin and Metaxas, Dimitris N and Chandraker, Manmohan and Schulter, Samuel and others},
   booktitle={CVPR},
   pages={13592--13602},
   year={2024}
