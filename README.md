@@ -53,7 +53,8 @@ pip install .
 ### Download pretrained weights
 - Official GLIP checkpoints are available at [GLIP Model Zoo](https://github.com/microsoft/GLIP?tab=readme-ov-file#model-zoo).
 
-- Our checkpoints finetuned with negatives are available at [Google Drive]() (coming soon).
+- Our checkpoints finetuned with negatives are available at [Google Drive](https://drive.google.com/drive/folders/1ibLahr6iIizNgsiGvLx2kZgUQRhMMHV1?usp=drive_link).
+`GLIP/model_neg_text_image_ensemble.pth`: Ensembl GLIP weights fintuned w/ either negative texts or negative images.
 
 - [Optional] Create `OUTPUT` folder to contain the checkpoints.
 
