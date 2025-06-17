@@ -98,9 +98,6 @@ python -m torch.distributed.launch \
 - Note 3: `omnilabel_val_1.3` is used for OmniLabel Challenge 2023, `omnilabel_val_1.4` for OmniLabel Challenge 2024.
 - Note 4: You may change `--nproc_per_node=8` and `TEST.IMS_PER_BATCH 8` to any number to reduce/increase the number of GPUs used in the evaluation.
 
-### Evaluating GLIP ft w/ Enhanced Negatives
-Download [our finetuned GLIP ckpt](https://drive.google.com/drive/folders/1LCwVIgFFBxB_WoNPsLu7bSf0uslEAadW?usp=drive_link) and evaluate as the above
-
 
 ## Evaluating FIBER on OmniLabel
 Will release it along with our new work https://arxiv.org/abs/2503.13794
